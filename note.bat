@@ -1,0 +1,1 @@
+"C:\Users\YAMAÇ\AppData\Local\Programs\Python\Python38\python.exe" "C:\Users\YAMAÇ\PycharmProjects\tipico\get_bets.py"

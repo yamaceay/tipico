@@ -1,0 +1,47 @@
+[
+    {
+        "id": "88d89245076a9a80c705aca636a8c86dac09c34d6e86f994608d35466c567251",
+        "team_1": "Real Oviedo B",
+        "team_2": "CD Covadonga",
+        "1": "2.20",
+        "X": "2.90",
+        "2": "3.40",
+        "ou_param": "1.5",
+        "over": "1.65",
+        "under": "2.10",
+        "h_1": "4.70",
+        "h_X": "3.80",
+        "h_2": "1.55",
+        "ha_param": "0:1"
+    },
+    {
+        "id": "7b8f38ba2c929df1236952d2e2e8b88c477bc91d05332db66f0f127946b2fb51",
+        "team_1": "CF Burgos",
+        "team_2": "Real Valladolid B",
+        "1": "1.65",
+        "X": "3.00",
+        "2": "6.50",
+        "ou_param": "1.5",
+        "over": "1.70",
+        "under": "2.00",
+        "h_1": "2.70",
+        "h_X": "3.40",
+        "h_2": "2.20",
+        "ha_param": "0:1"
+    },
+    {
+        "id": "a166c8d07d48cf8df1af380d7396aae48d28ff9a1ff816788c6822757b7ca8a7",
+        "team_1": "Cultural Leonesa",
+        "team_2": "Sporting Gijon B",
+        "1": "1.60",
+        "X": "3.40",
+        "2": "5.50",
+        "ou_param": "1.5",
+        "over": "1.65",
+        "under": "2.10",
+        "h_1": "2.50",
+        "h_X": "3.40",
+        "h_2": "2.30",
+        "ha_param": "0:1"
+    }
+]

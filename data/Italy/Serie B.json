@@ -1,0 +1,47 @@
+[
+    {
+        "id": "da605ce03b0f5376514613dd8b1be74ab148d7dc3fdcde7d1b57d3230948630c",
+        "team_1": "Urbs Sportiva Reggina 1914",
+        "team_2": "Virtus Entella",
+        "1": "1.72",
+        "X": "3.20",
+        "2": "5.30",
+        "ou_param": "2.5",
+        "over": "2.20",
+        "under": "1.60",
+        "h_1": "3.50",
+        "h_X": "2.90",
+        "h_2": "2.00",
+        "ha_param": "0:1"
+    },
+    {
+        "id": "ac0e63591f6284de839bb8762cef6f4416c042dfd3eff8c2cb5ae38123fffcb5",
+        "team_1": "AC Chievo Verona",
+        "team_2": "AC Reggiana",
+        "1": "1.45",
+        "X": "4.10",
+        "2": "6.70",
+        "ou_param": "2.5",
+        "over": "1.75",
+        "under": "1.95",
+        "h_1": "2.15",
+        "h_X": "3.60",
+        "h_2": "2.55",
+        "ha_param": "0:1"
+    },
+    {
+        "id": "0036123324efe7e4a9e9d21117555cbe0bc96be8e19527c1b10ddfb0d04c6125",
+        "team_1": "SSD Monza 1912",
+        "team_2": "AC Pisa 1909",
+        "1": "1.50",
+        "X": "3.80",
+        "2": "6.50",
+        "ou_param": "2.5",
+        "over": "1.80",
+        "under": "1.90",
+        "h_1": "2.20",
+        "h_X": "3.60",
+        "h_2": "2.50",
+        "ha_param": "0:1"
+    }
+]

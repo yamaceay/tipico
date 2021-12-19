@@ -1,0 +1,230 @@
+[
+    {
+        "country": "Germany",
+        "league": [
+            {
+                "league_name": "Bundesliga",
+                "league_link": "https://sports.tipico.de/en/all/football/germany/bundesliga"
+            },
+            {
+                "league_name": "2. Bundesliga",
+                "league_link": "https://sports.tipico.de/en/all/football/germany/2-bundesliga"
+            },
+            {
+                "league_name": "3. Liga",
+                "league_link": "https://sports.tipico.de/en/all/football/germany/3-liga"
+            },
+            {
+                "league_name": "DFB Cup",
+                "league_link": "https://sports.tipico.de/en/all/football/germany/dfb-cup"
+            }
+        ]
+    },
+    {
+        "country": "England",
+        "league": [
+            {
+                "league_name": "FA Cup",
+                "league_link": "https://sports.tipico.de/en/all/football/england/fa-cup"
+            },
+            {
+                "league_name": "Premier League",
+                "league_link": "https://sports.tipico.de/en/all/football/england/premier-league"
+            },
+            {
+                "league_name": "Championship",
+                "league_link": "https://sports.tipico.de/en/all/football/england/championship"
+            },
+            {
+                "league_name": "League One",
+                "league_link": "https://sports.tipico.de/en/all/football/england/league-one"
+            },
+            {
+                "league_name": "League Two",
+                "league_link": "https://sports.tipico.de/en/all/football/england/league-two"
+            },
+            {
+                "league_name": "EFL Cup",
+                "league_link": "https://sports.tipico.de/en/all/football/england/efl-cup"
+            },
+            {
+                "league_name": "The FA Women's Super League",
+                "league_link": "https://sports.tipico.de/en/all/football/england/the-fa-women-s-super-league"
+            }
+        ]
+    },
+    {
+        "country": "Spain",
+        "league": [
+            {
+                "league_name": "La Liga",
+                "league_link": "https://sports.tipico.de/en/all/football/spain/la-liga"
+            },
+            {
+                "league_name": "Copa del Rey",
+                "league_link": "https://sports.tipico.de/en/all/football/spain/copa-del-rey"
+            },
+            {
+                "league_name": "La Liga 2",
+                "league_link": "https://sports.tipico.de/en/all/football/spain/la-liga-2"
+            },
+            {
+                "league_name": "Segunda B, Group I, A",
+                "league_link": "https://sports.tipico.de/en/all/football/spain/segunda-b-group-i-a"
+            },
+            {
+                "league_name": "Segunda B, Group I, B",
+                "league_link": "https://sports.tipico.de/en/all/football/spain/segunda-b-group-i-b"
+            },
+            {
+                "league_name": "Segunda B, Group II, B",
+                "league_link": "https://sports.tipico.de/en/all/football/spain/segunda-b-group-ii-b"
+            },
+            {
+                "league_name": "Segunda B, Group III, A",
+                "league_link": "https://sports.tipico.de/en/all/football/spain/segunda-b-group-iii-a"
+            },
+            {
+                "league_name": "Segunda B, Group III, B",
+                "league_link": "https://sports.tipico.de/en/all/football/spain/segunda-b-group-iii-b"
+            },
+            {
+                "league_name": "Segunda B, Group IV, A",
+                "league_link": "https://sports.tipico.de/en/all/football/spain/segunda-b-group-iv-a"
+            },
+            {
+                "league_name": "Segunda B, Group V, A",
+                "league_link": "https://sports.tipico.de/en/all/football/spain/segunda-b-group-v-a"
+            },
+            {
+                "league_name": "Segunda B, Group V, B",
+                "league_link": "https://sports.tipico.de/en/all/football/spain/segunda-b-group-v-b"
+            },
+            {
+                "league_name": "Primera Division Women",
+                "league_link": "https://sports.tipico.de/en/all/football/spain/primera-division-women"
+            }
+        ]
+    },
+    {
+        "country": "Italy",
+        "league": [
+            {
+                "league_name": "Coppa Italia",
+                "league_link": "https://sports.tipico.de/en/all/football/italy/coppa-italia"
+            },
+            {
+                "league_name": "Serie A",
+                "league_link": "https://sports.tipico.de/en/all/football/italy/serie-a"
+            },
+            {
+                "league_name": "Serie B",
+                "league_link": "https://sports.tipico.de/en/all/football/italy/serie-b"
+            },
+            {
+                "league_name": "Serie C, Girone A",
+                "league_link": "https://sports.tipico.de/en/all/football/italy/serie-c-girone-a"
+            },
+            {
+                "league_name": "Serie C, Girone B",
+                "league_link": "https://sports.tipico.de/en/all/football/italy/serie-c-girone-b"
+            },
+            {
+                "league_name": "Serie C, Girone C",
+                "league_link": "https://sports.tipico.de/en/all/football/italy/serie-c-girone-c"
+            },
+            {
+                "league_name": "Campionato Primavera 1",
+                "league_link": "https://sports.tipico.de/en/all/football/italy/campionato-primavera-1"
+            }
+        ]
+    },
+    {
+        "country": "France",
+        "league": [
+            {
+                "league_name": "Coupe de France",
+                "league_link": "https://sports.tipico.de/en/all/football/france/coupe-de-france"
+            },
+            {
+                "league_name": "Ligue 1",
+                "league_link": "https://sports.tipico.de/en/all/football/france/ligue-1"
+            },
+            {
+                "league_name": "Ligue 2",
+                "league_link": "https://sports.tipico.de/en/all/football/france/ligue-2"
+            },
+            {
+                "league_name": "National",
+                "league_link": "https://sports.tipico.de/en/all/football/france/national"
+            }
+        ]
+    },
+    {
+        "country": "Turkey",
+        "league": [
+            {
+                "league_name": "T\u00fcrkiye Kupasi",
+                "league_link": "https://sports.tipico.de/en/all/football/turkey/tuerkiye-kupasi"
+            },
+            {
+                "league_name": "Super Lig",
+                "league_link": "https://sports.tipico.de/en/all/football/turkey/super-lig"
+            },
+            {
+                "league_name": "1. Lig",
+                "league_link": "https://sports.tipico.de/en/all/football/turkey/1-lig"
+            }
+        ]
+    },
+    {
+        "country": "Austria",
+        "league": [
+            {
+                "league_name": "tipico Bundesliga",
+                "league_link": "https://sports.tipico.de/en/all/football/austria/tipico-bundesliga"
+            },
+            {
+                "league_name": "2. Liga",
+                "league_link": "https://sports.tipico.de/en/all/football/austria/2-liga"
+            }
+        ]
+    },
+    {
+        "country": "Portugal",
+        "league": [
+            {
+                "league_name": "Primeira Liga",
+                "league_link": "https://sports.tipico.de/en/all/football/portugal/primeira-liga"
+            },
+            {
+                "league_name": "Taca de Portugal",
+                "league_link": "https://sports.tipico.de/en/all/football/portugal/taca-de-portugal"
+            },
+            {
+                "league_name": "Segunda Liga",
+                "league_link": "https://sports.tipico.de/en/all/football/portugal/segunda-liga"
+            },
+            {
+                "league_name": "Campeonato de Portugal, Group C",
+                "league_link": "https://sports.tipico.de/en/all/football/portugal/campeonato-de-portugal-group-c"
+            },
+            {
+                "league_name": "Campeonato de Portugal, Group D",
+                "league_link": "https://sports.tipico.de/en/all/football/portugal/campeonato-de-portugal-group-d"
+            },
+            {
+                "league_name": "Campeonato de Portugal, Group E",
+                "league_link": "https://sports.tipico.de/en/all/football/portugal/campeonato-de-portugal-group-e"
+            },
+            {
+                "league_name": "Campeonato de Portugal, Group F",
+                "league_link": "https://sports.tipico.de/en/all/football/portugal/campeonato-de-portugal-group-f"
+            },
+            {
+                "league_name": "Campeonato de Portugal, Group H",
+                "league_link": "https://sports.tipico.de/en/all/football/portugal/campeonato-de-portugal-group-h"
+            }
+        ]
+    }
+]

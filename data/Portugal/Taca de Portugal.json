@@ -1,0 +1,32 @@
+[
+    {
+        "id": "52bf76e4408d7815aaab52cc81759dc7b377fe502a4e23d7650ffff508962ca4",
+        "team_1": "Sporting Braga",
+        "team_2": "FC Porto",
+        "1": "3.10",
+        "X": "3.20",
+        "2": "2.25",
+        "ou_param": "2.5",
+        "over": "1.90",
+        "under": "1.80",
+        "h_1": "1.57",
+        "h_X": "3.70",
+        "h_2": "4.40",
+        "ha_param": "1:0"
+    },
+    {
+        "id": "2e61e926cca517454ec138e3ece61c4d6fac7df337780edb885beeab90183c71",
+        "team_1": "Estoril Praia",
+        "team_2": "Benfica Lisbon",
+        "1": "7.50",
+        "X": "4.30",
+        "2": "1.40",
+        "ou_param": "2.5",
+        "over": "1.60",
+        "under": "2.20",
+        "h_1": "2.90",
+        "h_X": "3.80",
+        "h_2": "1.90",
+        "ha_param": "1:0"
+    }
+]

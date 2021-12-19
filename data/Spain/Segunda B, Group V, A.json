@@ -1,0 +1,47 @@
+[
+    {
+        "id": "7755942170ab82a37d50329f7f4806c878ce8c2fcf347319f0b2e2188a17edf7",
+        "team_1": "CDA Navalcarnero",
+        "team_2": "Atletico Madrid B",
+        "1": "5.50",
+        "X": "4.00",
+        "2": "1.50",
+        "ou_param": "2.5",
+        "over": "1.90",
+        "under": "1.80",
+        "h_1": "2.60",
+        "h_X": "2.70",
+        "h_2": "2.70",
+        "ha_param": "1:0"
+    },
+    {
+        "id": "d0b8d2c97218045e586c39307bab6c43626bc51a8cc6233b3eeab8727e62f922",
+        "team_1": "Rayo Majadahonda",
+        "team_2": "CF Getafe B",
+        "1": "4.00",
+        "X": "3.60",
+        "2": "1.75",
+        "ou_param": "2.5",
+        "over": "1.75",
+        "under": "1.95",
+        "h_1": "1.90",
+        "h_X": "3.10",
+        "h_2": "4.00",
+        "ha_param": "1:0"
+    },
+    {
+        "id": "a982c7a7b7b1c8ce459ce2a721ba4c06c6cd13b16fbef6256ab6064b715cccda",
+        "team_1": "Real Madrid Castilla",
+        "team_2": "Las Rozas CF",
+        "1": "1.75",
+        "X": "3.10",
+        "2": "5.00",
+        "ou_param": "1.5",
+        "over": "1.75",
+        "under": "1.95",
+        "h_1": "3.00",
+        "h_X": "3.40",
+        "h_2": "2.00",
+        "ha_param": "0:1"
+    }
+]
